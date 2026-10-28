@@ -1,0 +1,5 @@
+site_name: Eka Game Notes
+site_description: Field notes from a mid-range Android phone, one game at a time
+nav:
+  - Home: index.md
+  - Measurements: notes.md
